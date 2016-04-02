@@ -2,4 +2,6 @@
 tmp/*
 log/*
 node_modules/*
+persist/*
 *.keep
+instructions.txt
